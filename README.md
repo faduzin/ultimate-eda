@@ -2,6 +2,10 @@
 
 Comparing exploratory data analysis (EDA) across different tools—Excel, Power BI, Python, and SQL—can be both meaningful and instructional. Each tool has its own advantages, limitations, and “style” of data manipulation and visualization, so creating one end-to-end project that highlights these differences is a great way to deepen your understanding and showcase your versatility. 
 
+#Progress till now:
+
+- Started watching videos about EDA in Excel but realized my basics are lacking, so I'll be studying statistics first.
+
 Below are some suggestions on **why** this is a worthwhile project and **how** to approach it, followed by recommended datasets:
 
 ---
